@@ -1,5 +1,5 @@
 # WeaveSlowMining
-A weave mow allowing you to change your swing speed.
+A weave mod allowing you to change your swing speed.
 
 ---
 
