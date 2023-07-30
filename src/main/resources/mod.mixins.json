@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.tryfle.miningspeed.mixins",
+  "mixins": [
+    "EntityLivingBaseMixin"
+  ]
+}

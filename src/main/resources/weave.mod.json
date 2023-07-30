@@ -1,0 +1,8 @@
+{
+  "mixinConfigs": [
+    "mod.mixins.json"
+  ],
+  "entrypoints": [
+    "me.tryfle.miningspeed.Main"
+  ]
+}
