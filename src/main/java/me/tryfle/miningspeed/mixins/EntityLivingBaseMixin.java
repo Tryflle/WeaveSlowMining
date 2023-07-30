@@ -12,6 +12,6 @@ public abstract class EntityLivingBaseMixin {
     public void iHateJava(CallbackInfoReturnable<Integer> ci) {
         if (Main.enabled) {
             ci.setReturnValue((int) Main.fatigueFactor);
-            }
         }
-        }
+    }
+}

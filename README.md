@@ -1,8 +1,20 @@
 # WeaveSlowMining
-A mod that slows down your swing/mining animation that can be configurated.
-Your configuration of the mod DOES NOT save on relaunch.
-To enable this mod, type the command "/slowmining".
-To configurate the mod, type the command "/slowminingfactor VALUE". 
-The default value of "slowminingfactor" is 20.
-This mod is made for the WeaveMC mod loader:
-https://github.com/Weave-MC
+A weave mow allowing you to change your swing speed.
+
+---
+
+## Usage
+- You can use `/slowmining` to toggle it.
+- You can use `/slowminingfactor {value}` to change the speed. (by default it's 20)
+
+## Installation
+1. Download [Lunar Client QT](https://github.com/Tryflle/WeaveBatchDownload).
+2. Download the [Slow Mining](https://github.com/Tryflle/WeaveSlowMining/releases) mod.
+3. Place the jar in your Weave mods folder.
+    1. Windows: `%userprofile%\.weave\mods`
+    2. Unix: `~/.weave/mods`
+
+## Note
+- Your configuration of the mod DOESN'T save on relaunch.
+
+---
